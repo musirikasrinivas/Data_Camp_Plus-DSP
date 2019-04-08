@@ -1,0 +1,23 @@
+CountryName,CountryCode  \,IndicatorName,IndicatorCode,Year,Value  
+Arab World,ARB,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,31.285384
+Caribbean small states,CSS,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,31.597490
+Central Europe and the Baltics,CEB,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,44.507921
+East Asia & Pacific (all income levels),EAS,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,22.471132
+East Asia & Pacific (developing only),EAP,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,16.917679
+Euro area,EMU,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,62.096947
+Europe & Central Asia (all income levels),ECS,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,55.378977
+Europe & Central Asia (developing only),ECA,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,38.066129
+European Union,EUU,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,61.212898
+Fragile and conflict affected situations,FCS,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,17.891972
+Heavily indebted poor countries (HIPC),HPC,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,12.236046
+High income,HIC,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,62.680332
+High income: nonOECD,NOC,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,56.107863
+High income: OECD,OEC,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,64.285435
+Latin America & Caribbean (all income level),LCN,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,49.284688
+Latin America & Caribbean (developing only),LAC,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,44.863308 
+Least developed countries: UN classification,LDC,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,9.616261
+Low & middle income,LMY,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,21.272894
+Low income,LIC,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,11.498396
+Lower middle income,LMC,Urban population (% of total),SP.URB.TOTL.IN.ZS,1960,19.810513
+
+
